@@ -1,0 +1,339 @@
+commence_date,commence_hour,home_team,away_team,bookmaker_key,bookmaker_title,market_key,outcome_name,outcome_price,outcome_point
+03/01/2024,10:13 PM,Chicago Bulls,Milwaukee Bucks,draftkings,DraftKings,h2h,Chicago Bulls,390,
+03/01/2024,10:13 PM,Chicago Bulls,Milwaukee Bucks,draftkings,DraftKings,h2h,Milwaukee Bucks,-600,
+03/01/2024,10:13 PM,Chicago Bulls,Milwaukee Bucks,draftkings,DraftKings,spreads,Chicago Bulls,-105,6.5
+03/01/2024,10:13 PM,Chicago Bulls,Milwaukee Bucks,draftkings,DraftKings,spreads,Milwaukee Bucks,-125,-6.5
+03/01/2024,10:13 PM,Chicago Bulls,Milwaukee Bucks,draftkings,DraftKings,totals,Over,-115,208.5
+03/01/2024,10:13 PM,Chicago Bulls,Milwaukee Bucks,draftkings,DraftKings,totals,Under,-115,208.5
+03/01/2024,10:13 PM,Chicago Bulls,Milwaukee Bucks,williamhill_us,Caesars,h2h,Chicago Bulls,400,
+03/01/2024,10:13 PM,Chicago Bulls,Milwaukee Bucks,williamhill_us,Caesars,h2h,Milwaukee Bucks,-600,
+03/01/2024,10:13 PM,Chicago Bulls,Milwaukee Bucks,williamhill_us,Caesars,spreads,Chicago Bulls,-120,7.5
+03/01/2024,10:13 PM,Chicago Bulls,Milwaukee Bucks,williamhill_us,Caesars,spreads,Milwaukee Bucks,-110,-7.5
+03/01/2024,10:13 PM,Chicago Bulls,Milwaukee Bucks,williamhill_us,Caesars,totals,Over,-110,211.5
+03/01/2024,10:13 PM,Chicago Bulls,Milwaukee Bucks,williamhill_us,Caesars,totals,Under,-120,211.5
+03/01/2024,10:13 PM,Chicago Bulls,Milwaukee Bucks,mybookieag,MyBookie.ag,h2h,Chicago Bulls,650,
+03/01/2024,10:13 PM,Chicago Bulls,Milwaukee Bucks,mybookieag,MyBookie.ag,h2h,Milwaukee Bucks,-2500,
+03/01/2024,10:13 PM,Chicago Bulls,Milwaukee Bucks,mybookieag,MyBookie.ag,spreads,Chicago Bulls,-115,13.5
+03/01/2024,10:13 PM,Chicago Bulls,Milwaukee Bucks,mybookieag,MyBookie.ag,spreads,Milwaukee Bucks,-115,-13.5
+03/01/2024,10:13 PM,Chicago Bulls,Milwaukee Bucks,mybookieag,MyBookie.ag,totals,Over,-120,210.5
+03/01/2024,10:13 PM,Chicago Bulls,Milwaukee Bucks,mybookieag,MyBookie.ag,totals,Under,-110,210.5
+03/01/2024,10:13 PM,Chicago Bulls,Milwaukee Bucks,fanduel,FanDuel,h2h,Chicago Bulls,560,
+03/01/2024,10:13 PM,Chicago Bulls,Milwaukee Bucks,fanduel,FanDuel,h2h,Milwaukee Bucks,-1000,
+03/01/2024,10:13 PM,Chicago Bulls,Milwaukee Bucks,fanduel,FanDuel,spreads,Chicago Bulls,-128,8.5
+03/01/2024,10:13 PM,Chicago Bulls,Milwaukee Bucks,fanduel,FanDuel,spreads,Milwaukee Bucks,-102,-8.5
+03/01/2024,10:13 PM,Chicago Bulls,Milwaukee Bucks,fanduel,FanDuel,totals,Over,-122,208.5
+03/01/2024,10:13 PM,Chicago Bulls,Milwaukee Bucks,fanduel,FanDuel,totals,Under,-106,208.5
+03/01/2024,10:13 PM,Chicago Bulls,Milwaukee Bucks,pointsbetus,PointsBet (US),h2h,Chicago Bulls,550,
+03/01/2024,10:13 PM,Chicago Bulls,Milwaukee Bucks,pointsbetus,PointsBet (US),h2h,Milwaukee Bucks,-900,
+03/01/2024,10:13 PM,Chicago Bulls,Milwaukee Bucks,pointsbetus,PointsBet (US),spreads,Chicago Bulls,-112,8.5
+03/01/2024,10:13 PM,Chicago Bulls,Milwaukee Bucks,pointsbetus,PointsBet (US),spreads,Milwaukee Bucks,-112,-8.5
+03/01/2024,10:13 PM,Chicago Bulls,Milwaukee Bucks,pointsbetus,PointsBet (US),totals,Over,-112,212.5
+03/01/2024,10:13 PM,Chicago Bulls,Milwaukee Bucks,pointsbetus,PointsBet (US),totals,Under,-112,212.5
+03/01/2024,10:13 PM,Chicago Bulls,Milwaukee Bucks,betmgm,BetMGM,h2h,Chicago Bulls,500,
+03/01/2024,10:13 PM,Chicago Bulls,Milwaukee Bucks,betmgm,BetMGM,h2h,Milwaukee Bucks,-800,
+03/01/2024,10:13 PM,Chicago Bulls,Milwaukee Bucks,betmgm,BetMGM,spreads,Chicago Bulls,-120,8.5
+03/01/2024,10:13 PM,Chicago Bulls,Milwaukee Bucks,betmgm,BetMGM,spreads,Milwaukee Bucks,-110,-8.5
+03/01/2024,10:13 PM,Chicago Bulls,Milwaukee Bucks,betmgm,BetMGM,totals,Over,-125,209.5
+03/01/2024,10:13 PM,Chicago Bulls,Milwaukee Bucks,betmgm,BetMGM,totals,Under,-105,209.5
+03/01/2024,10:13 PM,Chicago Bulls,Milwaukee Bucks,wynnbet,WynnBET,h2h,Chicago Bulls,675,
+03/01/2024,10:13 PM,Chicago Bulls,Milwaukee Bucks,wynnbet,WynnBET,h2h,Milwaukee Bucks,-1493,
+03/01/2024,10:13 PM,Chicago Bulls,Milwaukee Bucks,wynnbet,WynnBET,spreads,Chicago Bulls,-120,9.5
+03/01/2024,10:13 PM,Chicago Bulls,Milwaukee Bucks,wynnbet,WynnBET,spreads,Milwaukee Bucks,-110,-9.5
+03/01/2024,10:13 PM,Chicago Bulls,Milwaukee Bucks,wynnbet,WynnBET,totals,Over,-105,210.5
+03/01/2024,10:13 PM,Chicago Bulls,Milwaukee Bucks,wynnbet,WynnBET,totals,Under,-125,210.5
+03/01/2024,10:13 PM,Chicago Bulls,Milwaukee Bucks,betrivers,BetRivers,h2h,Chicago Bulls,480,
+03/01/2024,10:13 PM,Chicago Bulls,Milwaukee Bucks,betrivers,BetRivers,h2h,Milwaukee Bucks,-835,
+03/01/2024,10:13 PM,Chicago Bulls,Milwaukee Bucks,betrivers,BetRivers,spreads,Chicago Bulls,-120,8.0
+03/01/2024,10:13 PM,Chicago Bulls,Milwaukee Bucks,betrivers,BetRivers,spreads,Milwaukee Bucks,-114,-8.0
+03/01/2024,10:13 PM,Chicago Bulls,Milwaukee Bucks,betrivers,BetRivers,totals,Over,-114,208.5
+03/01/2024,10:13 PM,Chicago Bulls,Milwaukee Bucks,betrivers,BetRivers,totals,Under,-118,208.5
+03/01/2024,10:13 PM,Chicago Bulls,Milwaukee Bucks,unibet_us,Unibet,h2h,Chicago Bulls,480,
+03/01/2024,10:13 PM,Chicago Bulls,Milwaukee Bucks,unibet_us,Unibet,h2h,Milwaukee Bucks,-835,
+03/01/2024,10:13 PM,Chicago Bulls,Milwaukee Bucks,unibet_us,Unibet,spreads,Chicago Bulls,-121,8.0
+03/01/2024,10:13 PM,Chicago Bulls,Milwaukee Bucks,unibet_us,Unibet,spreads,Milwaukee Bucks,-115,-8.0
+03/01/2024,10:13 PM,Chicago Bulls,Milwaukee Bucks,unibet_us,Unibet,totals,Over,-115,208.5
+03/01/2024,10:13 PM,Chicago Bulls,Milwaukee Bucks,unibet_us,Unibet,totals,Under,-120,208.5
+03/01/2024,10:13 PM,Chicago Bulls,Milwaukee Bucks,bovada,Bovada,h2h,Chicago Bulls,550,
+03/01/2024,10:13 PM,Chicago Bulls,Milwaukee Bucks,bovada,Bovada,h2h,Milwaukee Bucks,-1000,
+03/01/2024,10:13 PM,Chicago Bulls,Milwaukee Bucks,bovada,Bovada,spreads,Chicago Bulls,-110,8.5
+03/01/2024,10:13 PM,Chicago Bulls,Milwaukee Bucks,bovada,Bovada,spreads,Milwaukee Bucks,-120,-8.5
+03/01/2024,10:13 PM,Chicago Bulls,Milwaukee Bucks,bovada,Bovada,totals,Over,-130,210.0
+03/01/2024,10:13 PM,Chicago Bulls,Milwaukee Bucks,bovada,Bovada,totals,Under,100,210.0
+03/01/2024,10:40 PM,Los Angeles Clippers,Washington Wizards,draftkings,DraftKings,spreads,Los Angeles Clippers,-115,-24.5
+03/01/2024,10:40 PM,Los Angeles Clippers,Washington Wizards,draftkings,DraftKings,spreads,Washington Wizards,-115,24.5
+03/01/2024,10:40 PM,Los Angeles Clippers,Washington Wizards,draftkings,DraftKings,totals,Over,-120,251.5
+03/01/2024,10:40 PM,Los Angeles Clippers,Washington Wizards,draftkings,DraftKings,totals,Under,-110,251.5
+03/01/2024,10:40 PM,Los Angeles Clippers,Washington Wizards,pointsbetus,PointsBet (US),spreads,Los Angeles Clippers,-112,-25.5
+03/01/2024,10:40 PM,Los Angeles Clippers,Washington Wizards,pointsbetus,PointsBet (US),spreads,Washington Wizards,-112,25.5
+03/01/2024,10:40 PM,Los Angeles Clippers,Washington Wizards,pointsbetus,PointsBet (US),totals,Over,-120,251.5
+03/01/2024,10:40 PM,Los Angeles Clippers,Washington Wizards,pointsbetus,PointsBet (US),totals,Under,-105,251.5
+03/01/2024,10:40 PM,Los Angeles Clippers,Washington Wizards,fanduel,FanDuel,spreads,Los Angeles Clippers,-128,-23.5
+03/01/2024,10:40 PM,Los Angeles Clippers,Washington Wizards,fanduel,FanDuel,spreads,Washington Wizards,-102,23.5
+03/01/2024,10:40 PM,Los Angeles Clippers,Washington Wizards,fanduel,FanDuel,totals,Over,-106,250.5
+03/01/2024,10:40 PM,Los Angeles Clippers,Washington Wizards,fanduel,FanDuel,totals,Under,-122,250.5
+03/01/2024,10:40 PM,Los Angeles Clippers,Washington Wizards,mybookieag,MyBookie.ag,spreads,Los Angeles Clippers,-115,-19.5
+03/01/2024,10:40 PM,Los Angeles Clippers,Washington Wizards,mybookieag,MyBookie.ag,spreads,Washington Wizards,-115,19.5
+03/01/2024,10:40 PM,Los Angeles Clippers,Washington Wizards,mybookieag,MyBookie.ag,totals,Over,-115,260.5
+03/01/2024,10:40 PM,Los Angeles Clippers,Washington Wizards,mybookieag,MyBookie.ag,totals,Under,-115,260.5
+03/01/2024,10:40 PM,Los Angeles Clippers,Washington Wizards,betrivers,BetRivers,spreads,Los Angeles Clippers,-120,-23.0
+03/01/2024,10:40 PM,Los Angeles Clippers,Washington Wizards,betrivers,BetRivers,spreads,Washington Wizards,-114,23.0
+03/01/2024,10:40 PM,Los Angeles Clippers,Washington Wizards,betrivers,BetRivers,totals,Over,-114,249.0
+03/01/2024,10:40 PM,Los Angeles Clippers,Washington Wizards,betrivers,BetRivers,totals,Under,-120,249.0
+03/01/2024,10:40 PM,Los Angeles Clippers,Washington Wizards,unibet_us,Unibet,spreads,Los Angeles Clippers,-120,-23.0
+03/01/2024,10:40 PM,Los Angeles Clippers,Washington Wizards,unibet_us,Unibet,spreads,Washington Wizards,-115,23.0
+03/01/2024,10:40 PM,Los Angeles Clippers,Washington Wizards,unibet_us,Unibet,totals,Over,-115,249.0
+03/01/2024,10:40 PM,Los Angeles Clippers,Washington Wizards,unibet_us,Unibet,totals,Under,-121,249.0
+03/01/2024,10:40 PM,Los Angeles Clippers,Washington Wizards,williamhill_us,Caesars,spreads,Los Angeles Clippers,-120,-23.5
+03/01/2024,10:40 PM,Los Angeles Clippers,Washington Wizards,williamhill_us,Caesars,spreads,Washington Wizards,-110,23.5
+03/01/2024,10:40 PM,Los Angeles Clippers,Washington Wizards,williamhill_us,Caesars,totals,Over,-115,249.5
+03/01/2024,10:40 PM,Los Angeles Clippers,Washington Wizards,williamhill_us,Caesars,totals,Under,-115,249.5
+03/01/2024,10:40 PM,Los Angeles Clippers,Washington Wizards,bovada,Bovada,spreads,Los Angeles Clippers,-105,-23.5
+03/01/2024,10:40 PM,Los Angeles Clippers,Washington Wizards,bovada,Bovada,spreads,Washington Wizards,-125,23.5
+03/01/2024,10:40 PM,Los Angeles Clippers,Washington Wizards,bovada,Bovada,totals,Over,-115,249.5
+03/01/2024,10:40 PM,Los Angeles Clippers,Washington Wizards,bovada,Bovada,totals,Under,-115,249.5
+03/01/2024,10:40 PM,Los Angeles Clippers,Washington Wizards,betmgm,BetMGM,h2h,Los Angeles Clippers,-10000,
+03/01/2024,10:40 PM,Los Angeles Clippers,Washington Wizards,betmgm,BetMGM,h2h,Washington Wizards,3300,
+03/01/2024,10:40 PM,Los Angeles Clippers,Washington Wizards,betmgm,BetMGM,spreads,Los Angeles Clippers,-105,-23.5
+03/01/2024,10:40 PM,Los Angeles Clippers,Washington Wizards,betmgm,BetMGM,spreads,Washington Wizards,-125,23.5
+03/01/2024,10:40 PM,Los Angeles Clippers,Washington Wizards,betmgm,BetMGM,totals,Over,-120,249.5
+03/01/2024,10:40 PM,Los Angeles Clippers,Washington Wizards,betmgm,BetMGM,totals,Under,-110,249.5
+03/01/2024,10:40 PM,Los Angeles Clippers,Washington Wizards,wynnbet,WynnBET,h2h,Los Angeles Clippers,-10000,
+03/01/2024,10:40 PM,Los Angeles Clippers,Washington Wizards,wynnbet,WynnBET,h2h,Washington Wizards,1300,
+03/01/2024,10:40 PM,Los Angeles Clippers,Washington Wizards,wynnbet,WynnBET,spreads,Los Angeles Clippers,-120,-23.5
+03/01/2024,10:40 PM,Los Angeles Clippers,Washington Wizards,wynnbet,WynnBET,spreads,Washington Wizards,-110,23.5
+03/01/2024,10:40 PM,Los Angeles Clippers,Washington Wizards,wynnbet,WynnBET,totals,Over,-110,250.5
+03/01/2024,10:40 PM,Los Angeles Clippers,Washington Wizards,wynnbet,WynnBET,totals,Under,-120,250.5
+03/02/2024,03:10 PM,Brooklyn Nets,Atlanta Hawks,draftkings,DraftKings,h2h,Atlanta Hawks,100,
+03/02/2024,03:10 PM,Brooklyn Nets,Atlanta Hawks,draftkings,DraftKings,h2h,Brooklyn Nets,-120,
+03/02/2024,03:10 PM,Brooklyn Nets,Atlanta Hawks,draftkings,DraftKings,spreads,Atlanta Hawks,-110,1.5
+03/02/2024,03:10 PM,Brooklyn Nets,Atlanta Hawks,draftkings,DraftKings,spreads,Brooklyn Nets,-110,-1.5
+03/02/2024,03:10 PM,Brooklyn Nets,Atlanta Hawks,draftkings,DraftKings,totals,Over,-115,221.0
+03/02/2024,03:10 PM,Brooklyn Nets,Atlanta Hawks,draftkings,DraftKings,totals,Under,-105,221.0
+03/02/2024,03:10 PM,Brooklyn Nets,Atlanta Hawks,betonlineag,BetOnline.ag,spreads,Atlanta Hawks,-110,1.5
+03/02/2024,03:10 PM,Brooklyn Nets,Atlanta Hawks,betonlineag,BetOnline.ag,spreads,Brooklyn Nets,-110,-1.5
+03/02/2024,03:10 PM,Brooklyn Nets,Atlanta Hawks,betonlineag,BetOnline.ag,totals,Over,-115,221.0
+03/02/2024,03:10 PM,Brooklyn Nets,Atlanta Hawks,betonlineag,BetOnline.ag,totals,Under,-105,221.0
+03/02/2024,03:10 PM,Brooklyn Nets,Atlanta Hawks,mybookieag,MyBookie.ag,h2h,Atlanta Hawks,100,
+03/02/2024,03:10 PM,Brooklyn Nets,Atlanta Hawks,mybookieag,MyBookie.ag,h2h,Brooklyn Nets,-120,
+03/02/2024,03:10 PM,Brooklyn Nets,Atlanta Hawks,pointsbetus,PointsBet (US),h2h,Atlanta Hawks,105,
+03/02/2024,03:10 PM,Brooklyn Nets,Atlanta Hawks,pointsbetus,PointsBet (US),h2h,Brooklyn Nets,-125,
+03/02/2024,03:10 PM,Brooklyn Nets,Atlanta Hawks,pointsbetus,PointsBet (US),spreads,Atlanta Hawks,-110,1.5
+03/02/2024,03:10 PM,Brooklyn Nets,Atlanta Hawks,pointsbetus,PointsBet (US),spreads,Brooklyn Nets,-110,-1.5
+03/02/2024,03:10 PM,Brooklyn Nets,Atlanta Hawks,pointsbetus,PointsBet (US),totals,Over,-110,221.5
+03/02/2024,03:10 PM,Brooklyn Nets,Atlanta Hawks,pointsbetus,PointsBet (US),totals,Under,-110,221.5
+03/02/2024,03:10 PM,Brooklyn Nets,Atlanta Hawks,fanduel,FanDuel,h2h,Atlanta Hawks,100,
+03/02/2024,03:10 PM,Brooklyn Nets,Atlanta Hawks,fanduel,FanDuel,h2h,Brooklyn Nets,-118,
+03/02/2024,03:10 PM,Brooklyn Nets,Atlanta Hawks,fanduel,FanDuel,spreads,Atlanta Hawks,-110,1.5
+03/02/2024,03:10 PM,Brooklyn Nets,Atlanta Hawks,fanduel,FanDuel,spreads,Brooklyn Nets,-110,-1.5
+03/02/2024,03:10 PM,Brooklyn Nets,Atlanta Hawks,fanduel,FanDuel,totals,Over,-110,221.0
+03/02/2024,03:10 PM,Brooklyn Nets,Atlanta Hawks,fanduel,FanDuel,totals,Under,-110,221.0
+03/02/2024,03:10 PM,Brooklyn Nets,Atlanta Hawks,lowvig,LowVig.ag,spreads,Atlanta Hawks,-106,1.5
+03/02/2024,03:10 PM,Brooklyn Nets,Atlanta Hawks,lowvig,LowVig.ag,spreads,Brooklyn Nets,-106,-1.5
+03/02/2024,03:10 PM,Brooklyn Nets,Atlanta Hawks,lowvig,LowVig.ag,totals,Over,-113,221.0
+03/02/2024,03:10 PM,Brooklyn Nets,Atlanta Hawks,lowvig,LowVig.ag,totals,Under,-102,221.0
+03/02/2024,03:10 PM,Brooklyn Nets,Atlanta Hawks,betmgm,BetMGM,h2h,Atlanta Hawks,100,
+03/02/2024,03:10 PM,Brooklyn Nets,Atlanta Hawks,betmgm,BetMGM,h2h,Brooklyn Nets,-120,
+03/02/2024,03:10 PM,Brooklyn Nets,Atlanta Hawks,betmgm,BetMGM,spreads,Atlanta Hawks,-110,1.5
+03/02/2024,03:10 PM,Brooklyn Nets,Atlanta Hawks,betmgm,BetMGM,spreads,Brooklyn Nets,-110,-1.5
+03/02/2024,03:10 PM,Brooklyn Nets,Atlanta Hawks,betmgm,BetMGM,totals,Over,-110,221.5
+03/02/2024,03:10 PM,Brooklyn Nets,Atlanta Hawks,betmgm,BetMGM,totals,Under,-110,221.5
+03/02/2024,03:10 PM,Brooklyn Nets,Atlanta Hawks,williamhill_us,Caesars,h2h,Atlanta Hawks,100,
+03/02/2024,03:10 PM,Brooklyn Nets,Atlanta Hawks,williamhill_us,Caesars,h2h,Brooklyn Nets,-120,
+03/02/2024,03:10 PM,Brooklyn Nets,Atlanta Hawks,williamhill_us,Caesars,spreads,Atlanta Hawks,-110,1.5
+03/02/2024,03:10 PM,Brooklyn Nets,Atlanta Hawks,williamhill_us,Caesars,spreads,Brooklyn Nets,-110,-1.5
+03/02/2024,03:10 PM,Brooklyn Nets,Atlanta Hawks,williamhill_us,Caesars,totals,Over,-115,221.0
+03/02/2024,03:10 PM,Brooklyn Nets,Atlanta Hawks,williamhill_us,Caesars,totals,Under,-105,221.0
+03/02/2024,03:10 PM,Brooklyn Nets,Atlanta Hawks,wynnbet,WynnBET,h2h,Atlanta Hawks,108,
+03/02/2024,03:10 PM,Brooklyn Nets,Atlanta Hawks,wynnbet,WynnBET,h2h,Brooklyn Nets,-125,
+03/02/2024,03:10 PM,Brooklyn Nets,Atlanta Hawks,wynnbet,WynnBET,spreads,Atlanta Hawks,-110,1.5
+03/02/2024,03:10 PM,Brooklyn Nets,Atlanta Hawks,wynnbet,WynnBET,spreads,Brooklyn Nets,-110,-1.5
+03/02/2024,03:10 PM,Brooklyn Nets,Atlanta Hawks,wynnbet,WynnBET,totals,Over,-110,221.5
+03/02/2024,03:10 PM,Brooklyn Nets,Atlanta Hawks,wynnbet,WynnBET,totals,Under,-110,221.5
+03/02/2024,03:10 PM,Brooklyn Nets,Atlanta Hawks,bovada,Bovada,spreads,Atlanta Hawks,-110,1.5
+03/02/2024,03:10 PM,Brooklyn Nets,Atlanta Hawks,bovada,Bovada,spreads,Brooklyn Nets,-110,-1.5
+03/02/2024,03:10 PM,Brooklyn Nets,Atlanta Hawks,bovada,Bovada,totals,Over,-110,221.5
+03/02/2024,03:10 PM,Brooklyn Nets,Atlanta Hawks,bovada,Bovada,totals,Under,-110,221.5
+03/02/2024,05:10 PM,Miami Heat,Utah Jazz,draftkings,DraftKings,h2h,Miami Heat,-340,
+03/02/2024,05:10 PM,Miami Heat,Utah Jazz,draftkings,DraftKings,h2h,Utah Jazz,270,
+03/02/2024,05:10 PM,Miami Heat,Utah Jazz,draftkings,DraftKings,spreads,Miami Heat,-110,-8.0
+03/02/2024,05:10 PM,Miami Heat,Utah Jazz,draftkings,DraftKings,spreads,Utah Jazz,-110,8.0
+03/02/2024,05:10 PM,Miami Heat,Utah Jazz,draftkings,DraftKings,totals,Over,-110,225.0
+03/02/2024,05:10 PM,Miami Heat,Utah Jazz,draftkings,DraftKings,totals,Under,-110,225.0
+03/02/2024,05:10 PM,Miami Heat,Utah Jazz,fanduel,FanDuel,h2h,Miami Heat,-320,
+03/02/2024,05:10 PM,Miami Heat,Utah Jazz,fanduel,FanDuel,h2h,Utah Jazz,260,
+03/02/2024,05:10 PM,Miami Heat,Utah Jazz,fanduel,FanDuel,spreads,Miami Heat,-110,-7.5
+03/02/2024,05:10 PM,Miami Heat,Utah Jazz,fanduel,FanDuel,spreads,Utah Jazz,-110,7.5
+03/02/2024,05:10 PM,Miami Heat,Utah Jazz,fanduel,FanDuel,totals,Over,-110,225.0
+03/02/2024,05:10 PM,Miami Heat,Utah Jazz,fanduel,FanDuel,totals,Under,-110,225.0
+03/02/2024,05:10 PM,Miami Heat,Utah Jazz,mybookieag,MyBookie.ag,h2h,Miami Heat,-330,
+03/02/2024,05:10 PM,Miami Heat,Utah Jazz,mybookieag,MyBookie.ag,h2h,Utah Jazz,260,
+03/02/2024,05:10 PM,Miami Heat,Utah Jazz,pointsbetus,PointsBet (US),h2h,Miami Heat,-350,
+03/02/2024,05:10 PM,Miami Heat,Utah Jazz,pointsbetus,PointsBet (US),h2h,Utah Jazz,260,
+03/02/2024,05:10 PM,Miami Heat,Utah Jazz,pointsbetus,PointsBet (US),spreads,Miami Heat,-110,-8.0
+03/02/2024,05:10 PM,Miami Heat,Utah Jazz,pointsbetus,PointsBet (US),spreads,Utah Jazz,-110,8.0
+03/02/2024,05:10 PM,Miami Heat,Utah Jazz,pointsbetus,PointsBet (US),totals,Over,-110,225.5
+03/02/2024,05:10 PM,Miami Heat,Utah Jazz,pointsbetus,PointsBet (US),totals,Under,-110,225.5
+03/02/2024,05:10 PM,Miami Heat,Utah Jazz,betmgm,BetMGM,h2h,Miami Heat,-350,
+03/02/2024,05:10 PM,Miami Heat,Utah Jazz,betmgm,BetMGM,h2h,Utah Jazz,260,
+03/02/2024,05:10 PM,Miami Heat,Utah Jazz,betmgm,BetMGM,spreads,Miami Heat,-105,-8.5
+03/02/2024,05:10 PM,Miami Heat,Utah Jazz,betmgm,BetMGM,spreads,Utah Jazz,-115,8.5
+03/02/2024,05:10 PM,Miami Heat,Utah Jazz,betmgm,BetMGM,totals,Over,-105,225.5
+03/02/2024,05:10 PM,Miami Heat,Utah Jazz,betmgm,BetMGM,totals,Under,-115,225.5
+03/02/2024,05:10 PM,Miami Heat,Utah Jazz,betonlineag,BetOnline.ag,spreads,Miami Heat,-110,-8.0
+03/02/2024,05:10 PM,Miami Heat,Utah Jazz,betonlineag,BetOnline.ag,spreads,Utah Jazz,-110,8.0
+03/02/2024,05:10 PM,Miami Heat,Utah Jazz,betonlineag,BetOnline.ag,totals,Over,-110,225.0
+03/02/2024,05:10 PM,Miami Heat,Utah Jazz,betonlineag,BetOnline.ag,totals,Under,-110,225.0
+03/02/2024,05:10 PM,Miami Heat,Utah Jazz,lowvig,LowVig.ag,spreads,Miami Heat,-106,-8.0
+03/02/2024,05:10 PM,Miami Heat,Utah Jazz,lowvig,LowVig.ag,spreads,Utah Jazz,-106,8.0
+03/02/2024,05:10 PM,Miami Heat,Utah Jazz,lowvig,LowVig.ag,totals,Over,-107,225.0
+03/02/2024,05:10 PM,Miami Heat,Utah Jazz,lowvig,LowVig.ag,totals,Under,-107,225.0
+03/02/2024,05:10 PM,Miami Heat,Utah Jazz,wynnbet,WynnBET,h2h,Miami Heat,-310,
+03/02/2024,05:10 PM,Miami Heat,Utah Jazz,wynnbet,WynnBET,h2h,Utah Jazz,255,
+03/02/2024,05:10 PM,Miami Heat,Utah Jazz,wynnbet,WynnBET,spreads,Miami Heat,-110,-8.0
+03/02/2024,05:10 PM,Miami Heat,Utah Jazz,wynnbet,WynnBET,spreads,Utah Jazz,-110,8.0
+03/02/2024,05:10 PM,Miami Heat,Utah Jazz,wynnbet,WynnBET,totals,Over,-110,225.0
+03/02/2024,05:10 PM,Miami Heat,Utah Jazz,wynnbet,WynnBET,totals,Under,-110,225.0
+03/02/2024,05:10 PM,Miami Heat,Utah Jazz,williamhill_us,Caesars,h2h,Miami Heat,-345,
+03/02/2024,05:10 PM,Miami Heat,Utah Jazz,williamhill_us,Caesars,h2h,Utah Jazz,270,
+03/02/2024,05:10 PM,Miami Heat,Utah Jazz,williamhill_us,Caesars,spreads,Miami Heat,-110,-8.0
+03/02/2024,05:10 PM,Miami Heat,Utah Jazz,williamhill_us,Caesars,spreads,Utah Jazz,-110,8.0
+03/02/2024,05:10 PM,Miami Heat,Utah Jazz,williamhill_us,Caesars,totals,Over,-110,225.0
+03/02/2024,05:10 PM,Miami Heat,Utah Jazz,williamhill_us,Caesars,totals,Under,-110,225.0
+03/02/2024,05:10 PM,Miami Heat,Utah Jazz,bovada,Bovada,spreads,Miami Heat,-110,-8.0
+03/02/2024,05:10 PM,Miami Heat,Utah Jazz,bovada,Bovada,spreads,Utah Jazz,-110,8.0
+03/02/2024,05:10 PM,Miami Heat,Utah Jazz,bovada,Bovada,totals,Over,-110,225.0
+03/02/2024,05:10 PM,Miami Heat,Utah Jazz,bovada,Bovada,totals,Under,-110,225.0
+03/02/2024,08:10 PM,Memphis Grizzlies,Portland Trail Blazers,draftkings,DraftKings,h2h,Memphis Grizzlies,-125,
+03/02/2024,08:10 PM,Memphis Grizzlies,Portland Trail Blazers,draftkings,DraftKings,h2h,Portland Trail Blazers,105,
+03/02/2024,08:10 PM,Memphis Grizzlies,Portland Trail Blazers,draftkings,DraftKings,spreads,Memphis Grizzlies,-115,-1.5
+03/02/2024,08:10 PM,Memphis Grizzlies,Portland Trail Blazers,draftkings,DraftKings,spreads,Portland Trail Blazers,-105,1.5
+03/02/2024,08:10 PM,Memphis Grizzlies,Portland Trail Blazers,draftkings,DraftKings,totals,Over,-110,209.0
+03/02/2024,08:10 PM,Memphis Grizzlies,Portland Trail Blazers,draftkings,DraftKings,totals,Under,-110,209.0
+03/02/2024,08:10 PM,Memphis Grizzlies,Portland Trail Blazers,pointsbetus,PointsBet (US),h2h,Memphis Grizzlies,-120,
+03/02/2024,08:10 PM,Memphis Grizzlies,Portland Trail Blazers,pointsbetus,PointsBet (US),h2h,Portland Trail Blazers,100,
+03/02/2024,08:10 PM,Memphis Grizzlies,Portland Trail Blazers,pointsbetus,PointsBet (US),spreads,Memphis Grizzlies,-110,-2.0
+03/02/2024,08:10 PM,Memphis Grizzlies,Portland Trail Blazers,pointsbetus,PointsBet (US),spreads,Portland Trail Blazers,-110,2.0
+03/02/2024,08:10 PM,Memphis Grizzlies,Portland Trail Blazers,pointsbetus,PointsBet (US),totals,Over,-110,209.0
+03/02/2024,08:10 PM,Memphis Grizzlies,Portland Trail Blazers,pointsbetus,PointsBet (US),totals,Under,-110,209.0
+03/02/2024,08:10 PM,Memphis Grizzlies,Portland Trail Blazers,mybookieag,MyBookie.ag,h2h,Memphis Grizzlies,-125,
+03/02/2024,08:10 PM,Memphis Grizzlies,Portland Trail Blazers,mybookieag,MyBookie.ag,h2h,Portland Trail Blazers,105,
+03/02/2024,08:10 PM,Memphis Grizzlies,Portland Trail Blazers,betonlineag,BetOnline.ag,spreads,Memphis Grizzlies,-115,-1.5
+03/02/2024,08:10 PM,Memphis Grizzlies,Portland Trail Blazers,betonlineag,BetOnline.ag,spreads,Portland Trail Blazers,-105,1.5
+03/02/2024,08:10 PM,Memphis Grizzlies,Portland Trail Blazers,betonlineag,BetOnline.ag,totals,Over,-110,209.0
+03/02/2024,08:10 PM,Memphis Grizzlies,Portland Trail Blazers,betonlineag,BetOnline.ag,totals,Under,-110,209.0
+03/02/2024,08:10 PM,Memphis Grizzlies,Portland Trail Blazers,lowvig,LowVig.ag,spreads,Memphis Grizzlies,-111,-1.5
+03/02/2024,08:10 PM,Memphis Grizzlies,Portland Trail Blazers,lowvig,LowVig.ag,spreads,Portland Trail Blazers,-101,1.5
+03/02/2024,08:10 PM,Memphis Grizzlies,Portland Trail Blazers,lowvig,LowVig.ag,totals,Over,-107,209.0
+03/02/2024,08:10 PM,Memphis Grizzlies,Portland Trail Blazers,lowvig,LowVig.ag,totals,Under,-107,209.0
+03/02/2024,08:10 PM,Memphis Grizzlies,Portland Trail Blazers,wynnbet,WynnBET,h2h,Memphis Grizzlies,-125,
+03/02/2024,08:10 PM,Memphis Grizzlies,Portland Trail Blazers,wynnbet,WynnBET,h2h,Portland Trail Blazers,108,
+03/02/2024,08:10 PM,Memphis Grizzlies,Portland Trail Blazers,wynnbet,WynnBET,spreads,Memphis Grizzlies,-110,-1.5
+03/02/2024,08:10 PM,Memphis Grizzlies,Portland Trail Blazers,wynnbet,WynnBET,spreads,Portland Trail Blazers,-110,1.5
+03/02/2024,08:10 PM,Memphis Grizzlies,Portland Trail Blazers,wynnbet,WynnBET,totals,Over,-110,208.5
+03/02/2024,08:10 PM,Memphis Grizzlies,Portland Trail Blazers,wynnbet,WynnBET,totals,Under,-110,208.5
+03/02/2024,08:10 PM,Memphis Grizzlies,Portland Trail Blazers,betmgm,BetMGM,h2h,Memphis Grizzlies,-130,
+03/02/2024,08:10 PM,Memphis Grizzlies,Portland Trail Blazers,betmgm,BetMGM,h2h,Portland Trail Blazers,105,
+03/02/2024,08:10 PM,Memphis Grizzlies,Portland Trail Blazers,betmgm,BetMGM,spreads,Memphis Grizzlies,-115,-1.5
+03/02/2024,08:10 PM,Memphis Grizzlies,Portland Trail Blazers,betmgm,BetMGM,spreads,Portland Trail Blazers,-105,1.5
+03/02/2024,08:10 PM,Memphis Grizzlies,Portland Trail Blazers,betmgm,BetMGM,totals,Over,-115,208.5
+03/02/2024,08:10 PM,Memphis Grizzlies,Portland Trail Blazers,betmgm,BetMGM,totals,Under,-105,208.5
+03/02/2024,08:10 PM,Memphis Grizzlies,Portland Trail Blazers,fanduel,FanDuel,h2h,Memphis Grizzlies,-118,
+03/02/2024,08:10 PM,Memphis Grizzlies,Portland Trail Blazers,fanduel,FanDuel,h2h,Portland Trail Blazers,100,
+03/02/2024,08:10 PM,Memphis Grizzlies,Portland Trail Blazers,fanduel,FanDuel,spreads,Memphis Grizzlies,-108,-1.5
+03/02/2024,08:10 PM,Memphis Grizzlies,Portland Trail Blazers,fanduel,FanDuel,spreads,Portland Trail Blazers,-112,1.5
+03/02/2024,08:10 PM,Memphis Grizzlies,Portland Trail Blazers,fanduel,FanDuel,totals,Over,-110,209.5
+03/02/2024,08:10 PM,Memphis Grizzlies,Portland Trail Blazers,fanduel,FanDuel,totals,Under,-110,209.5
+03/02/2024,08:10 PM,Memphis Grizzlies,Portland Trail Blazers,bovada,Bovada,spreads,Memphis Grizzlies,-115,-1.5
+03/02/2024,08:10 PM,Memphis Grizzlies,Portland Trail Blazers,bovada,Bovada,spreads,Portland Trail Blazers,-105,1.5
+03/02/2024,08:10 PM,Memphis Grizzlies,Portland Trail Blazers,bovada,Bovada,totals,Over,-110,209.0
+03/02/2024,08:10 PM,Memphis Grizzlies,Portland Trail Blazers,bovada,Bovada,totals,Under,-110,209.0
+03/02/2024,08:40 PM,Los Angeles Lakers,Denver Nuggets,draftkings,DraftKings,h2h,Denver Nuggets,-108,
+03/02/2024,08:40 PM,Los Angeles Lakers,Denver Nuggets,draftkings,DraftKings,h2h,Los Angeles Lakers,-112,
+03/02/2024,08:40 PM,Los Angeles Lakers,Denver Nuggets,draftkings,DraftKings,spreads,Denver Nuggets,-115,1.0
+03/02/2024,08:40 PM,Los Angeles Lakers,Denver Nuggets,draftkings,DraftKings,spreads,Los Angeles Lakers,-105,-1.0
+03/02/2024,08:40 PM,Los Angeles Lakers,Denver Nuggets,draftkings,DraftKings,totals,Over,-110,229.5
+03/02/2024,08:40 PM,Los Angeles Lakers,Denver Nuggets,draftkings,DraftKings,totals,Under,-110,229.5
+03/02/2024,08:40 PM,Los Angeles Lakers,Denver Nuggets,fanduel,FanDuel,h2h,Denver Nuggets,-102,
+03/02/2024,08:40 PM,Los Angeles Lakers,Denver Nuggets,fanduel,FanDuel,h2h,Los Angeles Lakers,-116,
+03/02/2024,08:40 PM,Los Angeles Lakers,Denver Nuggets,fanduel,FanDuel,spreads,Denver Nuggets,-110,1.0
+03/02/2024,08:40 PM,Los Angeles Lakers,Denver Nuggets,fanduel,FanDuel,spreads,Los Angeles Lakers,-110,-1.0
+03/02/2024,08:40 PM,Los Angeles Lakers,Denver Nuggets,fanduel,FanDuel,totals,Over,-110,229.0
+03/02/2024,08:40 PM,Los Angeles Lakers,Denver Nuggets,fanduel,FanDuel,totals,Under,-110,229.0
+03/02/2024,08:40 PM,Los Angeles Lakers,Denver Nuggets,pointsbetus,PointsBet (US),h2h,Denver Nuggets,-110,
+03/02/2024,08:40 PM,Los Angeles Lakers,Denver Nuggets,pointsbetus,PointsBet (US),h2h,Los Angeles Lakers,-110,
+03/02/2024,08:40 PM,Los Angeles Lakers,Denver Nuggets,pointsbetus,PointsBet (US),spreads,Denver Nuggets,-110,1.0
+03/02/2024,08:40 PM,Los Angeles Lakers,Denver Nuggets,pointsbetus,PointsBet (US),spreads,Los Angeles Lakers,-110,-1.0
+03/02/2024,08:40 PM,Los Angeles Lakers,Denver Nuggets,pointsbetus,PointsBet (US),totals,Over,-110,229.5
+03/02/2024,08:40 PM,Los Angeles Lakers,Denver Nuggets,pointsbetus,PointsBet (US),totals,Under,-110,229.5
+03/02/2024,08:40 PM,Los Angeles Lakers,Denver Nuggets,betmgm,BetMGM,h2h,Denver Nuggets,-105,
+03/02/2024,08:40 PM,Los Angeles Lakers,Denver Nuggets,betmgm,BetMGM,h2h,Los Angeles Lakers,-115,
+03/02/2024,08:40 PM,Los Angeles Lakers,Denver Nuggets,betmgm,BetMGM,spreads,Denver Nuggets,-120,1.5
+03/02/2024,08:40 PM,Los Angeles Lakers,Denver Nuggets,betmgm,BetMGM,spreads,Los Angeles Lakers,100,-1.5
+03/02/2024,08:40 PM,Los Angeles Lakers,Denver Nuggets,betmgm,BetMGM,totals,Over,-110,229.5
+03/02/2024,08:40 PM,Los Angeles Lakers,Denver Nuggets,betmgm,BetMGM,totals,Under,-110,229.5
+03/02/2024,08:40 PM,Los Angeles Lakers,Denver Nuggets,lowvig,LowVig.ag,spreads,Denver Nuggets,-111,1.0
+03/02/2024,08:40 PM,Los Angeles Lakers,Denver Nuggets,lowvig,LowVig.ag,spreads,Los Angeles Lakers,-101,-1.0
+03/02/2024,08:40 PM,Los Angeles Lakers,Denver Nuggets,lowvig,LowVig.ag,totals,Over,-107,229.5
+03/02/2024,08:40 PM,Los Angeles Lakers,Denver Nuggets,lowvig,LowVig.ag,totals,Under,-107,229.5
+03/02/2024,08:40 PM,Los Angeles Lakers,Denver Nuggets,betonlineag,BetOnline.ag,spreads,Denver Nuggets,-115,1.0
+03/02/2024,08:40 PM,Los Angeles Lakers,Denver Nuggets,betonlineag,BetOnline.ag,spreads,Los Angeles Lakers,-105,-1.0
+03/02/2024,08:40 PM,Los Angeles Lakers,Denver Nuggets,betonlineag,BetOnline.ag,totals,Over,-110,229.5
+03/02/2024,08:40 PM,Los Angeles Lakers,Denver Nuggets,betonlineag,BetOnline.ag,totals,Under,-110,229.5
+03/02/2024,08:40 PM,Los Angeles Lakers,Denver Nuggets,wynnbet,WynnBET,h2h,Denver Nuggets,-116,
+03/02/2024,08:40 PM,Los Angeles Lakers,Denver Nuggets,wynnbet,WynnBET,h2h,Los Angeles Lakers,100,
+03/02/2024,08:40 PM,Los Angeles Lakers,Denver Nuggets,wynnbet,WynnBET,spreads,Denver Nuggets,-110,-1.0
+03/02/2024,08:40 PM,Los Angeles Lakers,Denver Nuggets,wynnbet,WynnBET,spreads,Los Angeles Lakers,-110,1.0
+03/02/2024,08:40 PM,Los Angeles Lakers,Denver Nuggets,wynnbet,WynnBET,totals,Over,-110,230.0
+03/02/2024,08:40 PM,Los Angeles Lakers,Denver Nuggets,wynnbet,WynnBET,totals,Under,-110,230.0
+03/02/2024,08:40 PM,Los Angeles Lakers,Denver Nuggets,bovada,Bovada,spreads,Denver Nuggets,-115,1.0
+03/02/2024,08:40 PM,Los Angeles Lakers,Denver Nuggets,bovada,Bovada,spreads,Los Angeles Lakers,-105,-1.0
+03/02/2024,08:40 PM,Los Angeles Lakers,Denver Nuggets,bovada,Bovada,totals,Over,-110,229.5
+03/02/2024,08:40 PM,Los Angeles Lakers,Denver Nuggets,bovada,Bovada,totals,Under,-110,229.5
+03/02/2024,09:10 PM,Phoenix Suns,Houston Rockets,draftkings,DraftKings,h2h,Houston Rockets,340,
+03/02/2024,09:10 PM,Phoenix Suns,Houston Rockets,draftkings,DraftKings,h2h,Phoenix Suns,-440,
+03/02/2024,09:10 PM,Phoenix Suns,Houston Rockets,draftkings,DraftKings,spreads,Houston Rockets,-108,9.5
+03/02/2024,09:10 PM,Phoenix Suns,Houston Rockets,draftkings,DraftKings,spreads,Phoenix Suns,-112,-9.5
+03/02/2024,09:10 PM,Phoenix Suns,Houston Rockets,draftkings,DraftKings,totals,Over,-110,231.0
+03/02/2024,09:10 PM,Phoenix Suns,Houston Rockets,draftkings,DraftKings,totals,Under,-110,231.0
+03/02/2024,09:10 PM,Phoenix Suns,Houston Rockets,fanduel,FanDuel,h2h,Houston Rockets,360,
+03/02/2024,09:10 PM,Phoenix Suns,Houston Rockets,fanduel,FanDuel,h2h,Phoenix Suns,-460,
+03/02/2024,09:10 PM,Phoenix Suns,Houston Rockets,fanduel,FanDuel,spreads,Houston Rockets,-110,9.5
+03/02/2024,09:10 PM,Phoenix Suns,Houston Rockets,fanduel,FanDuel,spreads,Phoenix Suns,-110,-9.5
+03/02/2024,09:10 PM,Phoenix Suns,Houston Rockets,fanduel,FanDuel,totals,Over,-110,231.5
+03/02/2024,09:10 PM,Phoenix Suns,Houston Rockets,fanduel,FanDuel,totals,Under,-110,231.5
+03/02/2024,09:10 PM,Phoenix Suns,Houston Rockets,pointsbetus,PointsBet (US),h2h,Houston Rockets,330,
+03/02/2024,09:10 PM,Phoenix Suns,Houston Rockets,pointsbetus,PointsBet (US),h2h,Phoenix Suns,-425,
+03/02/2024,09:10 PM,Phoenix Suns,Houston Rockets,pointsbetus,PointsBet (US),spreads,Houston Rockets,-110,9.5
+03/02/2024,09:10 PM,Phoenix Suns,Houston Rockets,pointsbetus,PointsBet (US),spreads,Phoenix Suns,-110,-9.5
+03/02/2024,09:10 PM,Phoenix Suns,Houston Rockets,pointsbetus,PointsBet (US),totals,Over,-110,231.0
+03/02/2024,09:10 PM,Phoenix Suns,Houston Rockets,pointsbetus,PointsBet (US),totals,Under,-110,231.0
+03/02/2024,09:10 PM,Phoenix Suns,Houston Rockets,mybookieag,MyBookie.ag,h2h,Houston Rockets,325,
+03/02/2024,09:10 PM,Phoenix Suns,Houston Rockets,mybookieag,MyBookie.ag,h2h,Phoenix Suns,-450,
+03/02/2024,09:10 PM,Phoenix Suns,Houston Rockets,betmgm,BetMGM,h2h,Houston Rockets,340,
+03/02/2024,09:10 PM,Phoenix Suns,Houston Rockets,betmgm,BetMGM,h2h,Phoenix Suns,-450,
+03/02/2024,09:10 PM,Phoenix Suns,Houston Rockets,betmgm,BetMGM,spreads,Houston Rockets,-110,9.5
+03/02/2024,09:10 PM,Phoenix Suns,Houston Rockets,betmgm,BetMGM,spreads,Phoenix Suns,-110,-9.5
+03/02/2024,09:10 PM,Phoenix Suns,Houston Rockets,betmgm,BetMGM,totals,Over,-115,230.5
+03/02/2024,09:10 PM,Phoenix Suns,Houston Rockets,betmgm,BetMGM,totals,Under,-105,230.5
+03/02/2024,09:10 PM,Phoenix Suns,Houston Rockets,lowvig,LowVig.ag,spreads,Houston Rockets,-101,9.5
+03/02/2024,09:10 PM,Phoenix Suns,Houston Rockets,lowvig,LowVig.ag,spreads,Phoenix Suns,-111,-9.5
+03/02/2024,09:10 PM,Phoenix Suns,Houston Rockets,lowvig,LowVig.ag,totals,Over,-107,231.0
+03/02/2024,09:10 PM,Phoenix Suns,Houston Rockets,lowvig,LowVig.ag,totals,Under,-107,231.0
+03/02/2024,09:10 PM,Phoenix Suns,Houston Rockets,betonlineag,BetOnline.ag,spreads,Houston Rockets,-105,9.5
+03/02/2024,09:10 PM,Phoenix Suns,Houston Rockets,betonlineag,BetOnline.ag,spreads,Phoenix Suns,-115,-9.5
+03/02/2024,09:10 PM,Phoenix Suns,Houston Rockets,betonlineag,BetOnline.ag,totals,Over,-110,231.0
+03/02/2024,09:10 PM,Phoenix Suns,Houston Rockets,betonlineag,BetOnline.ag,totals,Under,-110,231.0
+03/02/2024,09:10 PM,Phoenix Suns,Houston Rockets,wynnbet,WynnBET,h2h,Houston Rockets,340,
+03/02/2024,09:10 PM,Phoenix Suns,Houston Rockets,wynnbet,WynnBET,h2h,Phoenix Suns,-420,
+03/02/2024,09:10 PM,Phoenix Suns,Houston Rockets,wynnbet,WynnBET,spreads,Houston Rockets,-110,9.5
+03/02/2024,09:10 PM,Phoenix Suns,Houston Rockets,wynnbet,WynnBET,spreads,Phoenix Suns,-110,-9.5
+03/02/2024,09:10 PM,Phoenix Suns,Houston Rockets,wynnbet,WynnBET,totals,Over,-103,231.5
+03/02/2024,09:10 PM,Phoenix Suns,Houston Rockets,wynnbet,WynnBET,totals,Under,-117,231.5
+03/02/2024,09:10 PM,Phoenix Suns,Houston Rockets,williamhill_us,Caesars,spreads,Houston Rockets,-110,9.5
+03/02/2024,09:10 PM,Phoenix Suns,Houston Rockets,williamhill_us,Caesars,spreads,Phoenix Suns,-110,-9.5
+03/02/2024,09:10 PM,Phoenix Suns,Houston Rockets,williamhill_us,Caesars,totals,Over,-110,231.0
+03/02/2024,09:10 PM,Phoenix Suns,Houston Rockets,williamhill_us,Caesars,totals,Under,-110,231.0
+03/02/2024,09:10 PM,Phoenix Suns,Houston Rockets,bovada,Bovada,spreads,Houston Rockets,-110,9.5
+03/02/2024,09:10 PM,Phoenix Suns,Houston Rockets,bovada,Bovada,spreads,Phoenix Suns,-110,-9.5
+03/02/2024,09:10 PM,Phoenix Suns,Houston Rockets,bovada,Bovada,totals,Over,-110,231.0
+03/02/2024,09:10 PM,Phoenix Suns,Houston Rockets,bovada,Bovada,totals,Under,-110,231.0

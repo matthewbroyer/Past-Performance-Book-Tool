@@ -1,0 +1,26 @@
+League Information - WNBA
+
+Overview:
+- This Python sports prediction model is designed for the WNBA (Womens National Basketball Association).
+- The model utilizes historical data to make predictions for WNBA games.
+
+Data Collection:
+- The model scrapes 3 years of historical data to accumulate past performances.
+
+Model Operation:
+- The model updates its prediction process every time the app is run.
+
+Features:
+- Key features considered in the model include team statistics, winning percent chance, and adjustable weighting.
+
+Maintenance:
+- The model requires minimal maintenance, primarily focusing on ensuring the integrity of the container.xlsx file.
+- In case of issues or corruption in the container.xlsx file, a backup container is available for easy replacement.
+
+Usage:
+- The model is intended for informational and entertainment purposes.
+- Users should exercise their judgment and not solely rely on the predictions for betting or financial decisions.
+
+Disclaimer:
+- Predictions are inherently uncertain, and sports outcomes can be influenced by various unpredictable factors.
+- The model's accuracy is not guaranteed, and users should be aware of the risks associated with sports prediction.

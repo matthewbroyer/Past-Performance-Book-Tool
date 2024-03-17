@@ -1,0 +1,85 @@
+commence_date,commence_hour,home_team,away_team,bookmaker_key,bookmaker_title,market_key,outcome_name,outcome_price,outcome_point
+02/11/2024,06:35 PM,Kansas City Chiefs,San Francisco 49ers,fanduel,FanDuel,h2h,Kansas City Chiefs,106,
+02/11/2024,06:35 PM,Kansas City Chiefs,San Francisco 49ers,fanduel,FanDuel,h2h,San Francisco 49ers,-124,
+02/11/2024,06:35 PM,Kansas City Chiefs,San Francisco 49ers,fanduel,FanDuel,spreads,Kansas City Chiefs,-108,1.5
+02/11/2024,06:35 PM,Kansas City Chiefs,San Francisco 49ers,fanduel,FanDuel,spreads,San Francisco 49ers,-112,-1.5
+02/11/2024,06:35 PM,Kansas City Chiefs,San Francisco 49ers,fanduel,FanDuel,totals,Over,-110,47.5
+02/11/2024,06:35 PM,Kansas City Chiefs,San Francisco 49ers,fanduel,FanDuel,totals,Under,-110,47.5
+02/11/2024,06:35 PM,Kansas City Chiefs,San Francisco 49ers,lowvig,LowVig.ag,h2h,Kansas City Chiefs,110,
+02/11/2024,06:35 PM,Kansas City Chiefs,San Francisco 49ers,lowvig,LowVig.ag,h2h,San Francisco 49ers,-130,
+02/11/2024,06:35 PM,Kansas City Chiefs,San Francisco 49ers,lowvig,LowVig.ag,spreads,Kansas City Chiefs,-101,2.0
+02/11/2024,06:35 PM,Kansas City Chiefs,San Francisco 49ers,lowvig,LowVig.ag,spreads,San Francisco 49ers,-109,-2.0
+02/11/2024,06:35 PM,Kansas City Chiefs,San Francisco 49ers,lowvig,LowVig.ag,totals,Over,-106,47.5
+02/11/2024,06:35 PM,Kansas City Chiefs,San Francisco 49ers,lowvig,LowVig.ag,totals,Under,-108,47.5
+02/11/2024,06:35 PM,Kansas City Chiefs,San Francisco 49ers,betonlineag,BetOnline.ag,h2h,Kansas City Chiefs,110,
+02/11/2024,06:35 PM,Kansas City Chiefs,San Francisco 49ers,betonlineag,BetOnline.ag,h2h,San Francisco 49ers,-130,
+02/11/2024,06:35 PM,Kansas City Chiefs,San Francisco 49ers,betonlineag,BetOnline.ag,spreads,Kansas City Chiefs,-110,2.0
+02/11/2024,06:35 PM,Kansas City Chiefs,San Francisco 49ers,betonlineag,BetOnline.ag,spreads,San Francisco 49ers,-110,-2.0
+02/11/2024,06:35 PM,Kansas City Chiefs,San Francisco 49ers,betonlineag,BetOnline.ag,totals,Over,-110,47.5
+02/11/2024,06:35 PM,Kansas City Chiefs,San Francisco 49ers,betonlineag,BetOnline.ag,totals,Under,-110,47.5
+02/11/2024,06:35 PM,Kansas City Chiefs,San Francisco 49ers,unibet_us,Unibet,h2h,Kansas City Chiefs,107,
+02/11/2024,06:35 PM,Kansas City Chiefs,San Francisco 49ers,unibet_us,Unibet,h2h,San Francisco 49ers,-129,
+02/11/2024,06:35 PM,Kansas City Chiefs,San Francisco 49ers,unibet_us,Unibet,spreads,Kansas City Chiefs,-110,2.0
+02/11/2024,06:35 PM,Kansas City Chiefs,San Francisco 49ers,unibet_us,Unibet,spreads,San Francisco 49ers,-110,-2.0
+02/11/2024,06:35 PM,Kansas City Chiefs,San Francisco 49ers,unibet_us,Unibet,totals,Over,-110,47.5
+02/11/2024,06:35 PM,Kansas City Chiefs,San Francisco 49ers,unibet_us,Unibet,totals,Under,-110,47.5
+02/11/2024,06:35 PM,Kansas City Chiefs,San Francisco 49ers,betrivers,BetRivers,h2h,Kansas City Chiefs,107,
+02/11/2024,06:35 PM,Kansas City Chiefs,San Francisco 49ers,betrivers,BetRivers,h2h,San Francisco 49ers,-129,
+02/11/2024,06:35 PM,Kansas City Chiefs,San Francisco 49ers,betrivers,BetRivers,spreads,Kansas City Chiefs,-110,2.0
+02/11/2024,06:35 PM,Kansas City Chiefs,San Francisco 49ers,betrivers,BetRivers,spreads,San Francisco 49ers,-110,-2.0
+02/11/2024,06:35 PM,Kansas City Chiefs,San Francisco 49ers,betrivers,BetRivers,totals,Over,-110,47.5
+02/11/2024,06:35 PM,Kansas City Chiefs,San Francisco 49ers,betrivers,BetRivers,totals,Under,-110,47.5
+02/11/2024,06:35 PM,Kansas City Chiefs,San Francisco 49ers,betus,BetUS,h2h,Kansas City Chiefs,105,
+02/11/2024,06:35 PM,Kansas City Chiefs,San Francisco 49ers,betus,BetUS,h2h,San Francisco 49ers,-125,
+02/11/2024,06:35 PM,Kansas City Chiefs,San Francisco 49ers,betus,BetUS,spreads,Kansas City Chiefs,-110,1.5
+02/11/2024,06:35 PM,Kansas City Chiefs,San Francisco 49ers,betus,BetUS,spreads,San Francisco 49ers,-110,-1.5
+02/11/2024,06:35 PM,Kansas City Chiefs,San Francisco 49ers,betus,BetUS,totals,Over,-110,47.5
+02/11/2024,06:35 PM,Kansas City Chiefs,San Francisco 49ers,betus,BetUS,totals,Under,-110,47.5
+02/11/2024,06:35 PM,Kansas City Chiefs,San Francisco 49ers,williamhill_us,Caesars,h2h,Kansas City Chiefs,105,
+02/11/2024,06:35 PM,Kansas City Chiefs,San Francisco 49ers,williamhill_us,Caesars,h2h,San Francisco 49ers,-125,
+02/11/2024,06:35 PM,Kansas City Chiefs,San Francisco 49ers,williamhill_us,Caesars,spreads,Kansas City Chiefs,-110,1.5
+02/11/2024,06:35 PM,Kansas City Chiefs,San Francisco 49ers,williamhill_us,Caesars,spreads,San Francisco 49ers,-110,-1.5
+02/11/2024,06:35 PM,Kansas City Chiefs,San Francisco 49ers,williamhill_us,Caesars,totals,Over,-110,47.5
+02/11/2024,06:35 PM,Kansas City Chiefs,San Francisco 49ers,williamhill_us,Caesars,totals,Under,-110,47.5
+02/11/2024,06:35 PM,Kansas City Chiefs,San Francisco 49ers,bovada,Bovada,h2h,Kansas City Chiefs,110,
+02/11/2024,06:35 PM,Kansas City Chiefs,San Francisco 49ers,bovada,Bovada,h2h,San Francisco 49ers,-120,
+02/11/2024,06:35 PM,Kansas City Chiefs,San Francisco 49ers,bovada,Bovada,spreads,Kansas City Chiefs,-105,2.0
+02/11/2024,06:35 PM,Kansas City Chiefs,San Francisco 49ers,bovada,Bovada,spreads,San Francisco 49ers,-105,-2.0
+02/11/2024,06:35 PM,Kansas City Chiefs,San Francisco 49ers,bovada,Bovada,totals,Over,-105,47.5
+02/11/2024,06:35 PM,Kansas City Chiefs,San Francisco 49ers,bovada,Bovada,totals,Under,-105,47.5
+02/11/2024,06:35 PM,Kansas City Chiefs,San Francisco 49ers,draftkings,DraftKings,h2h,Kansas City Chiefs,100,
+02/11/2024,06:35 PM,Kansas City Chiefs,San Francisco 49ers,draftkings,DraftKings,h2h,San Francisco 49ers,-120,
+02/11/2024,06:35 PM,Kansas City Chiefs,San Francisco 49ers,draftkings,DraftKings,spreads,Kansas City Chiefs,-115,2.0
+02/11/2024,06:35 PM,Kansas City Chiefs,San Francisco 49ers,draftkings,DraftKings,spreads,San Francisco 49ers,-105,-2.0
+02/11/2024,06:35 PM,Kansas City Chiefs,San Francisco 49ers,draftkings,DraftKings,totals,Over,-112,47.5
+02/11/2024,06:35 PM,Kansas City Chiefs,San Francisco 49ers,draftkings,DraftKings,totals,Under,-108,47.5
+02/11/2024,06:35 PM,Kansas City Chiefs,San Francisco 49ers,betmgm,BetMGM,h2h,Kansas City Chiefs,110,
+02/11/2024,06:35 PM,Kansas City Chiefs,San Francisco 49ers,betmgm,BetMGM,h2h,San Francisco 49ers,-130,
+02/11/2024,06:35 PM,Kansas City Chiefs,San Francisco 49ers,betmgm,BetMGM,spreads,Kansas City Chiefs,-110,2.0
+02/11/2024,06:35 PM,Kansas City Chiefs,San Francisco 49ers,betmgm,BetMGM,spreads,San Francisco 49ers,-110,-2.0
+02/11/2024,06:35 PM,Kansas City Chiefs,San Francisco 49ers,betmgm,BetMGM,totals,Over,-110,47.5
+02/11/2024,06:35 PM,Kansas City Chiefs,San Francisco 49ers,betmgm,BetMGM,totals,Under,-110,47.5
+02/11/2024,06:35 PM,Kansas City Chiefs,San Francisco 49ers,wynnbet,WynnBET,h2h,Kansas City Chiefs,106,
+02/11/2024,06:35 PM,Kansas City Chiefs,San Francisco 49ers,wynnbet,WynnBET,h2h,San Francisco 49ers,-122,
+02/11/2024,06:35 PM,Kansas City Chiefs,San Francisco 49ers,wynnbet,WynnBET,spreads,Kansas City Chiefs,-110,1.5
+02/11/2024,06:35 PM,Kansas City Chiefs,San Francisco 49ers,wynnbet,WynnBET,spreads,San Francisco 49ers,-110,-1.5
+02/11/2024,06:35 PM,Kansas City Chiefs,San Francisco 49ers,wynnbet,WynnBET,totals,Over,-110,47.5
+02/11/2024,06:35 PM,Kansas City Chiefs,San Francisco 49ers,wynnbet,WynnBET,totals,Under,-110,47.5
+02/11/2024,06:35 PM,Kansas City Chiefs,San Francisco 49ers,superbook,SuperBook,h2h,Kansas City Chiefs,105,
+02/11/2024,06:35 PM,Kansas City Chiefs,San Francisco 49ers,superbook,SuperBook,h2h,San Francisco 49ers,-125,
+02/11/2024,06:35 PM,Kansas City Chiefs,San Francisco 49ers,superbook,SuperBook,spreads,Kansas City Chiefs,-110,2.0
+02/11/2024,06:35 PM,Kansas City Chiefs,San Francisco 49ers,superbook,SuperBook,spreads,San Francisco 49ers,-110,-2.0
+02/11/2024,06:35 PM,Kansas City Chiefs,San Francisco 49ers,superbook,SuperBook,totals,Over,-110,47.5
+02/11/2024,06:35 PM,Kansas City Chiefs,San Francisco 49ers,superbook,SuperBook,totals,Under,-110,47.5
+02/11/2024,06:35 PM,Kansas City Chiefs,San Francisco 49ers,mybookieag,MyBookie.ag,h2h,Kansas City Chiefs,105,
+02/11/2024,06:35 PM,Kansas City Chiefs,San Francisco 49ers,mybookieag,MyBookie.ag,h2h,San Francisco 49ers,-125,
+02/11/2024,06:35 PM,Kansas City Chiefs,San Francisco 49ers,mybookieag,MyBookie.ag,spreads,Kansas City Chiefs,-110,2.0
+02/11/2024,06:35 PM,Kansas City Chiefs,San Francisco 49ers,mybookieag,MyBookie.ag,spreads,San Francisco 49ers,-110,-2.0
+02/11/2024,06:35 PM,Kansas City Chiefs,San Francisco 49ers,mybookieag,MyBookie.ag,totals,Over,-110,47.5
+02/11/2024,06:35 PM,Kansas City Chiefs,San Francisco 49ers,mybookieag,MyBookie.ag,totals,Under,-110,47.5
+02/11/2024,06:35 PM,Kansas City Chiefs,San Francisco 49ers,pointsbetus,PointsBet (US),h2h,Kansas City Chiefs,110,
+02/11/2024,06:35 PM,Kansas City Chiefs,San Francisco 49ers,pointsbetus,PointsBet (US),h2h,San Francisco 49ers,-130,
+02/11/2024,06:35 PM,Kansas City Chiefs,San Francisco 49ers,pointsbetus,PointsBet (US),spreads,Kansas City Chiefs,-110,2.0
+02/11/2024,06:35 PM,Kansas City Chiefs,San Francisco 49ers,pointsbetus,PointsBet (US),spreads,San Francisco 49ers,-110,-2.0
+02/11/2024,06:35 PM,Kansas City Chiefs,San Francisco 49ers,pointsbetus,PointsBet (US),totals,Over,-110,48.0
+02/11/2024,06:35 PM,Kansas City Chiefs,San Francisco 49ers,pointsbetus,PointsBet (US),totals,Under,-110,48.0

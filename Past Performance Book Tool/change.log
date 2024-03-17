@@ -1,0 +1,34 @@
+**Update Log**
+
+**10/16/2023**
+
+- update_data.py:
+  - Adjusted season years for improved accuracy.
+- import_numbers.py:
+  - Modified to accommodate H2H columns.
+- main.py:
+  - Requires an additional file to run.
+  - Names have been changed for consistency.
+- container.xlsx:
+  - Updated xPoints formulas for enhanced functionality.
+
+**10/25/2023**
+
+- container.xlsx:
+  - Updated for improved visibility.
+- Preparing for November NHL and NBA updates.
+
+**12/6/2023**
+
+- import_scores.py:
+  - Enhanced code clarity for every league.
+- Project transitioned towards open-sourcing.
+- Added LICENSE.txt.
+- Created README.txt.
+- Created requirements.txt.
+
+**12/7/2023**
+
+- Finalized program, ready for launch.
+- Renamed/rebranded content.
+- Updated containers, and added backup-container.xlsx.

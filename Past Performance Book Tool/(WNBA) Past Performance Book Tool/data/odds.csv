@@ -1,0 +1,91 @@
+commence_date,commence_hour,home_team,away_team,bookmaker_key,bookmaker_title,market_key,outcome_name,outcome_price,outcome_point
+10/15/2023,03:00 PM,New York Liberty,Las Vegas Aces,barstool,Barstool Sportsbook,h2h,Las Vegas Aces,-145,
+10/15/2023,03:00 PM,New York Liberty,Las Vegas Aces,barstool,Barstool Sportsbook,h2h,New York Liberty,115,
+10/15/2023,03:00 PM,New York Liberty,Las Vegas Aces,barstool,Barstool Sportsbook,spreads,Las Vegas Aces,-115,-2.5
+10/15/2023,03:00 PM,New York Liberty,Las Vegas Aces,barstool,Barstool Sportsbook,spreads,New York Liberty,-115,2.5
+10/15/2023,03:00 PM,New York Liberty,Las Vegas Aces,barstool,Barstool Sportsbook,totals,Over,-115,172.5
+10/15/2023,03:00 PM,New York Liberty,Las Vegas Aces,barstool,Barstool Sportsbook,totals,Under,-115,172.5
+10/15/2023,03:00 PM,New York Liberty,Las Vegas Aces,pointsbetus,PointsBet (US),h2h,Las Vegas Aces,-145,
+10/15/2023,03:00 PM,New York Liberty,Las Vegas Aces,pointsbetus,PointsBet (US),h2h,New York Liberty,110,
+10/15/2023,03:00 PM,New York Liberty,Las Vegas Aces,pointsbetus,PointsBet (US),spreads,Las Vegas Aces,-115,-2.5
+10/15/2023,03:00 PM,New York Liberty,Las Vegas Aces,pointsbetus,PointsBet (US),spreads,New York Liberty,-115,2.5
+10/15/2023,03:00 PM,New York Liberty,Las Vegas Aces,pointsbetus,PointsBet (US),totals,Over,-115,172.5
+10/15/2023,03:00 PM,New York Liberty,Las Vegas Aces,pointsbetus,PointsBet (US),totals,Under,-115,172.5
+10/15/2023,03:00 PM,New York Liberty,Las Vegas Aces,mybookieag,MyBookie.ag,h2h,Las Vegas Aces,-144,
+10/15/2023,03:00 PM,New York Liberty,Las Vegas Aces,mybookieag,MyBookie.ag,h2h,New York Liberty,118,
+10/15/2023,03:00 PM,New York Liberty,Las Vegas Aces,mybookieag,MyBookie.ag,spreads,Las Vegas Aces,-110,-2.5
+10/15/2023,03:00 PM,New York Liberty,Las Vegas Aces,mybookieag,MyBookie.ag,spreads,New York Liberty,-110,2.5
+10/15/2023,03:00 PM,New York Liberty,Las Vegas Aces,mybookieag,MyBookie.ag,totals,Over,-110,172.5
+10/15/2023,03:00 PM,New York Liberty,Las Vegas Aces,mybookieag,MyBookie.ag,totals,Under,-110,172.5
+10/15/2023,03:00 PM,New York Liberty,Las Vegas Aces,draftkings,DraftKings,h2h,Las Vegas Aces,-135,
+10/15/2023,03:00 PM,New York Liberty,Las Vegas Aces,draftkings,DraftKings,h2h,New York Liberty,114,
+10/15/2023,03:00 PM,New York Liberty,Las Vegas Aces,draftkings,DraftKings,spreads,Las Vegas Aces,-110,-2.5
+10/15/2023,03:00 PM,New York Liberty,Las Vegas Aces,draftkings,DraftKings,spreads,New York Liberty,-110,2.5
+10/15/2023,03:00 PM,New York Liberty,Las Vegas Aces,draftkings,DraftKings,totals,Over,-110,172.5
+10/15/2023,03:00 PM,New York Liberty,Las Vegas Aces,draftkings,DraftKings,totals,Under,-110,172.5
+10/15/2023,03:00 PM,New York Liberty,Las Vegas Aces,fanduel,FanDuel,h2h,Las Vegas Aces,-140,
+10/15/2023,03:00 PM,New York Liberty,Las Vegas Aces,fanduel,FanDuel,h2h,New York Liberty,114,
+10/15/2023,03:00 PM,New York Liberty,Las Vegas Aces,fanduel,FanDuel,spreads,Las Vegas Aces,-105,-2.5
+10/15/2023,03:00 PM,New York Liberty,Las Vegas Aces,fanduel,FanDuel,spreads,New York Liberty,-115,2.5
+10/15/2023,03:00 PM,New York Liberty,Las Vegas Aces,fanduel,FanDuel,totals,Over,-111,171.5
+10/15/2023,03:00 PM,New York Liberty,Las Vegas Aces,fanduel,FanDuel,totals,Under,-115,171.5
+10/15/2023,03:00 PM,New York Liberty,Las Vegas Aces,betmgm,BetMGM,h2h,Las Vegas Aces,-145,
+10/15/2023,03:00 PM,New York Liberty,Las Vegas Aces,betmgm,BetMGM,h2h,New York Liberty,120,
+10/15/2023,03:00 PM,New York Liberty,Las Vegas Aces,betmgm,BetMGM,spreads,Las Vegas Aces,-110,-2.5
+10/15/2023,03:00 PM,New York Liberty,Las Vegas Aces,betmgm,BetMGM,spreads,New York Liberty,-110,2.5
+10/15/2023,03:00 PM,New York Liberty,Las Vegas Aces,betmgm,BetMGM,totals,Over,-110,172.5
+10/15/2023,03:00 PM,New York Liberty,Las Vegas Aces,betmgm,BetMGM,totals,Under,-110,172.5
+10/15/2023,03:00 PM,New York Liberty,Las Vegas Aces,williamhill_us,Caesars,h2h,Las Vegas Aces,-135,
+10/15/2023,03:00 PM,New York Liberty,Las Vegas Aces,williamhill_us,Caesars,h2h,New York Liberty,115,
+10/15/2023,03:00 PM,New York Liberty,Las Vegas Aces,williamhill_us,Caesars,spreads,Las Vegas Aces,-110,-2.0
+10/15/2023,03:00 PM,New York Liberty,Las Vegas Aces,williamhill_us,Caesars,spreads,New York Liberty,-110,2.0
+10/15/2023,03:00 PM,New York Liberty,Las Vegas Aces,williamhill_us,Caesars,totals,Over,-110,172.5
+10/15/2023,03:00 PM,New York Liberty,Las Vegas Aces,williamhill_us,Caesars,totals,Under,-110,172.5
+10/15/2023,03:00 PM,New York Liberty,Las Vegas Aces,superbook,SuperBook,h2h,Las Vegas Aces,-130,
+10/15/2023,03:00 PM,New York Liberty,Las Vegas Aces,superbook,SuperBook,h2h,New York Liberty,110,
+10/15/2023,03:00 PM,New York Liberty,Las Vegas Aces,superbook,SuperBook,spreads,Las Vegas Aces,-110,-2.0
+10/15/2023,03:00 PM,New York Liberty,Las Vegas Aces,superbook,SuperBook,spreads,New York Liberty,-110,2.0
+10/15/2023,03:00 PM,New York Liberty,Las Vegas Aces,superbook,SuperBook,totals,Over,-110,172.5
+10/15/2023,03:00 PM,New York Liberty,Las Vegas Aces,superbook,SuperBook,totals,Under,-110,172.5
+10/15/2023,03:00 PM,New York Liberty,Las Vegas Aces,bovada,Bovada,h2h,Las Vegas Aces,-135,
+10/15/2023,03:00 PM,New York Liberty,Las Vegas Aces,bovada,Bovada,h2h,New York Liberty,115,
+10/15/2023,03:00 PM,New York Liberty,Las Vegas Aces,bovada,Bovada,spreads,Las Vegas Aces,-110,-2.5
+10/15/2023,03:00 PM,New York Liberty,Las Vegas Aces,bovada,Bovada,spreads,New York Liberty,-110,2.5
+10/15/2023,03:00 PM,New York Liberty,Las Vegas Aces,bovada,Bovada,totals,Over,-110,172.5
+10/15/2023,03:00 PM,New York Liberty,Las Vegas Aces,bovada,Bovada,totals,Under,-110,172.5
+10/15/2023,03:00 PM,New York Liberty,Las Vegas Aces,betrivers,BetRivers,h2h,Las Vegas Aces,-137,
+10/15/2023,03:00 PM,New York Liberty,Las Vegas Aces,betrivers,BetRivers,h2h,New York Liberty,114,
+10/15/2023,03:00 PM,New York Liberty,Las Vegas Aces,betrivers,BetRivers,spreads,Las Vegas Aces,-109,-2.5
+10/15/2023,03:00 PM,New York Liberty,Las Vegas Aces,betrivers,BetRivers,spreads,New York Liberty,-114,2.5
+10/15/2023,03:00 PM,New York Liberty,Las Vegas Aces,betrivers,BetRivers,totals,Over,-113,171.5
+10/15/2023,03:00 PM,New York Liberty,Las Vegas Aces,betrivers,BetRivers,totals,Under,-110,171.5
+10/15/2023,03:00 PM,New York Liberty,Las Vegas Aces,unibet_us,Unibet,h2h,Las Vegas Aces,-137,
+10/15/2023,03:00 PM,New York Liberty,Las Vegas Aces,unibet_us,Unibet,h2h,New York Liberty,114,
+10/15/2023,03:00 PM,New York Liberty,Las Vegas Aces,unibet_us,Unibet,spreads,Las Vegas Aces,-109,-2.5
+10/15/2023,03:00 PM,New York Liberty,Las Vegas Aces,unibet_us,Unibet,spreads,New York Liberty,-114,2.5
+10/15/2023,03:00 PM,New York Liberty,Las Vegas Aces,unibet_us,Unibet,totals,Over,-113,171.5
+10/15/2023,03:00 PM,New York Liberty,Las Vegas Aces,unibet_us,Unibet,totals,Under,-110,171.5
+10/15/2023,03:00 PM,New York Liberty,Las Vegas Aces,twinspires,TwinSpires,h2h,Las Vegas Aces,-137,
+10/15/2023,03:00 PM,New York Liberty,Las Vegas Aces,twinspires,TwinSpires,h2h,New York Liberty,114,
+10/15/2023,03:00 PM,New York Liberty,Las Vegas Aces,twinspires,TwinSpires,spreads,Las Vegas Aces,-109,-2.5
+10/15/2023,03:00 PM,New York Liberty,Las Vegas Aces,twinspires,TwinSpires,spreads,New York Liberty,-114,2.5
+10/15/2023,03:00 PM,New York Liberty,Las Vegas Aces,twinspires,TwinSpires,totals,Over,-113,171.5
+10/15/2023,03:00 PM,New York Liberty,Las Vegas Aces,twinspires,TwinSpires,totals,Under,-110,171.5
+10/15/2023,03:00 PM,New York Liberty,Las Vegas Aces,betus,BetUS,h2h,Las Vegas Aces,-135,
+10/15/2023,03:00 PM,New York Liberty,Las Vegas Aces,betus,BetUS,h2h,New York Liberty,115,
+10/15/2023,03:00 PM,New York Liberty,Las Vegas Aces,betus,BetUS,spreads,Las Vegas Aces,-110,-2.5
+10/15/2023,03:00 PM,New York Liberty,Las Vegas Aces,betus,BetUS,spreads,New York Liberty,-110,2.5
+10/15/2023,03:00 PM,New York Liberty,Las Vegas Aces,betus,BetUS,totals,Over,-110,171.5
+10/15/2023,03:00 PM,New York Liberty,Las Vegas Aces,betus,BetUS,totals,Under,-110,171.5
+10/15/2023,03:00 PM,New York Liberty,Las Vegas Aces,wynnbet,WynnBET,h2h,Las Vegas Aces,-135,
+10/15/2023,03:00 PM,New York Liberty,Las Vegas Aces,wynnbet,WynnBET,h2h,New York Liberty,115,
+10/15/2023,03:00 PM,New York Liberty,Las Vegas Aces,wynnbet,WynnBET,spreads,Las Vegas Aces,-110,-2.5
+10/15/2023,03:00 PM,New York Liberty,Las Vegas Aces,wynnbet,WynnBET,spreads,New York Liberty,-110,2.5
+10/15/2023,03:00 PM,New York Liberty,Las Vegas Aces,wynnbet,WynnBET,totals,Over,-110,171.5
+10/15/2023,03:00 PM,New York Liberty,Las Vegas Aces,wynnbet,WynnBET,totals,Under,-110,171.5
+10/15/2023,03:00 PM,New York Liberty,Las Vegas Aces,betonlineag,BetOnline.ag,h2h,Las Vegas Aces,-139,
+10/15/2023,03:00 PM,New York Liberty,Las Vegas Aces,betonlineag,BetOnline.ag,h2h,New York Liberty,119,
+10/15/2023,03:00 PM,New York Liberty,Las Vegas Aces,betonlineag,BetOnline.ag,spreads,Las Vegas Aces,-115,-2.0
+10/15/2023,03:00 PM,New York Liberty,Las Vegas Aces,betonlineag,BetOnline.ag,spreads,New York Liberty,-105,2.0
+10/15/2023,03:00 PM,New York Liberty,Las Vegas Aces,betonlineag,BetOnline.ag,totals,Over,-110,171.5
+10/15/2023,03:00 PM,New York Liberty,Las Vegas Aces,betonlineag,BetOnline.ag,totals,Under,-110,171.5
